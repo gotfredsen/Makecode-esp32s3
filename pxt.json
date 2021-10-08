@@ -1,5 +1,5 @@
 {
-    "name": "msr jacdac iot brain 48 (esp32-s2)",
+    "name": "Qpy-esp32-s2",
     "description": "",
     "dependencies": {
         "jacdac-iot-s2": "*"
