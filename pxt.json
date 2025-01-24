@@ -1,6 +1,6 @@
 {
     "name": "Qpy-esp32-s2",
-    "description": "",
+    "description": "Bjarkes Version",
     "dependencies": {
         "jacdac-iot-s2": "*"
     },
