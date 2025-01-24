@@ -1,8 +1,8 @@
 {
-    "name": "Qpy-esp32-s3",
+    "name": "Qpy-esp32-s2",
     "description": "",
     "dependencies": {
-        "jacdac-iot-s3": "*"
+        "jacdac-iot-s2": "*"
     },
     "files": [
         "main.blocks",
